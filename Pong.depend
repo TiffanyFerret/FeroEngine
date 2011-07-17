@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1293398975 source:c:\users\tiffany\pong\main.cxx
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<vector>
+	<string>
+
+1282350164 source:c:\users\tiffany\pong\src\eventsdl.cpp
+	"../include/InputManager.h"
+	<SDL/SDL.h>
+	"../include/eventSDL.hpp"
+
+1298840306 c:\users\tiffany\pong\include\inputmanager.h
+
+1282350126 c:\users\tiffany\pong\include\eventsdl.hpp
+
+1293401681 source:c:\users\tiffany\pong\src\eventsdl.cxx
+	"../include/InputManager.h"
+	<SDL/SDL.h>
+	"../include/eventSDL.hpp"
+
+1298840127 source:c:\users\tiffany\pong\src\inputmanager.cxx
+	"../include/InputManager.h"
+	<list>
+
+1293530280 source:c:\users\tiffany\pong\src\main.cxx
+	"../include/Pong.h"
+
+1293451124 source:c:\users\tiffany\pong\src\imagesdl.cxx
+	"../include/Image.h"
+	"SDL/SDL.h"
+	"../include/ImageSDL.h"
+
+1293451097 c:\users\tiffany\pong\include\image.h
+
+1293451114 c:\users\tiffany\pong\include\imagesdl.h
+
+1293529850 source:c:\users\tiffany\pong\src\msgcarrier.cxx
+	"../include/MsgCarrier.h"
+	"../include/Program.h"
+
+1294130592 c:\users\tiffany\pong\include\pong.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<vector>
+	<string>
+	"../include/InputManager.h"
+	"../include/eventSDL.hpp"
+	"../include/Image.h"
+	"../include/ImageSDL.h"
+	"../include/Rect.h"
+	"../include/CollisionDetector.h"
+	"../include/Image.h"
+	"../include/MsgCarrier.h"
+	"../include/RandomNumber.h"
+	"../include/Sprite.h"
+	"../include/Ball.h"
+	"../include/Paddle.h"
+	"../include/Program.h"
+	"../include/Inputs.h"
+
+1298840689 c:\users\tiffany\pong\include\sprite.h
+
+1293528652 c:\users\tiffany\pong\include\msgcarrier.h
+
+1298840287 source:c:\users\tiffany\pong\src\pong.cxx
+	"../include/Pong.h"
+
+1293458364 c:\users\tiffany\pong\include\inputs.h
+
+1293918668 source:c:\users\tiffany\pong\src\sprite.cxx
+	"../include/Image.h"
+	"../include/Rect.h"
+	"../include/CollisionDetector.h"
+	"../include/RandomNumber.h"
+	"../include/Sprite.h"
+	<SDL/SDL.h>
+	<math.h>
+
+1293533250 source:c:\users\tiffany\pong\src\inputs.cxx
+	"../include/InputManager.h"
+	"../include/Inputs.h"
+	"../include/MsgCarrier.h"
+
+1293561537 c:\users\tiffany\pong\include\rect.h
+
+1293561623 source:c:\users\tiffany\pong\src\collisiondectector.cxx
+	<Vector>
+	"../include/Rect.h"
+	"../include/CollisionDetector.h"
+	"../include/Image.h"
+	"../include/RandomNumber.h"
+	"../include/Sprite.h"
+
+1293548652 c:\users\tiffany\pong\include\collisiondetector.h
+
+1293529787 c:\users\tiffany\pong\include\program.h
+
+1293528411 source:c:\users\tiffany\pong\src\program.cxx
+
+1293521550 source:c:\users\tiffany\pong\src\rect.cxx
+	"../include/Rect.h"
+
+1293548130 c:\users\tiffany\pong\include\randomnumber.h
+
+1293548253 source:c:\users\tiffany\pong\src\randomnumber.cxx
+	"../include/RandomNumber.h"
+	"stdlib.h"
+
+1294130139 source:c:\users\tiffany\pong\src\ball.cxx
+	"../include/Rect.h"
+	"../include/Image.h"
+	"../include/MsgCarrier.h"
+	<math.h>
+	"../include/RandomNumber.h"
+	"../include/CollisionDetector.h"
+	"../include/Sprite.h"
+	"../include/Ball.h"
+
+1293918591 c:\users\tiffany\pong\include\ball.h
+
+1294130164 source:c:\users\tiffany\pong\src\image.cxx
+	"../include/Image.h"
+
+1294130265 source:c:\users\tiffany\pong\src\paddle.cxx
+	"../include/Rect.h"
+	"../include/Image.h"
+	"../include/MsgCarrier.h"
+	"../include/RandomNumber.h"
+	"../include/CollisionDetector.h"
+	"../include/Sprite.h"
+	"../include/Ball.h"
+	"../include/Paddle.h"
+
+1293918445 c:\users\tiffany\pong\include\paddle.h
+
+1294131407 source:c:\users\tiffany\pong\src\spritemanager.cxx
+	"../include/Rect.h"
+	"../include/Image.h"
+	"../include/MsgCarrier.h"
+	"../include/RandomNumber.h"
+	"../include/CollisionDetector.h"
+	"../include/Sprite.h"
+	<vector>
+	"../include/SpriteManager.h"
+
+1294131067 c:\users\tiffany\pong\include\spritemanager.h
+

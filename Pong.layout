@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\Ball.h" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\DataCenter.h" open="1" top="0" tabpos="21">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Entity.h" open="1" top="0" tabpos="22">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="include\EntityManager.h" open="1" top="0" tabpos="23">
+		<Cursor position="181" topLine="0" />
+	</File>
+	<File name="include\EventSDL.h" open="1" top="0" tabpos="7">
+		<Cursor position="413" topLine="0" />
+	</File>
+	<File name="include\Fero2dRenderer.h" open="1" top="0" tabpos="30">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="include\Frames2d.h" open="1" top="0" tabpos="33">
+		<Cursor position="148" topLine="0" />
+	</File>
+	<File name="include\GraphicEntity.h" open="1" top="0" tabpos="27">
+		<Cursor position="38" topLine="0" />
+	</File>
+	<File name="include\GraphicEntityManager.h" open="1" top="0" tabpos="41">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="include\Graphics.h" open="1" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\HashTable.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Image.h" open="1" top="0" tabpos="29">
+		<Cursor position="49" topLine="0" />
+	</File>
+	<File name="include\ImageSDL.h" open="1" top="0" tabpos="28">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Module.h" open="1" top="0" tabpos="2">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="include\Paddle.h" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Pong.h" open="1" top="0" tabpos="16">
+		<Cursor position="755" topLine="17" />
+	</File>
+	<File name="include\Program.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\RandomNumber.h" open="1" top="0" tabpos="31">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Rect.h" open="1" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\Renderer.h" open="1" top="0" tabpos="9">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="include\Sprite.h" open="1" top="0" tabpos="18">
+		<Cursor position="15" topLine="0" />
+	</File>
+	<File name="include\SpriteManager.h" open="1" top="0" tabpos="25">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\TileManager.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\Ball.cxx" open="1" top="0" tabpos="14">
+		<Cursor position="107" topLine="2" />
+	</File>
+	<File name="src\DataCenter.cc" open="1" top="0" tabpos="5">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="src\Entity.cxx" open="1" top="0" tabpos="34">
+		<Cursor position="278" topLine="6" />
+	</File>
+	<File name="src\EntityManager.cxx" open="1" top="0" tabpos="26">
+		<Cursor position="195" topLine="6" />
+	</File>
+	<File name="src\EventSDL.cxx" open="1" top="0" tabpos="6">
+		<Cursor position="1214" topLine="9" />
+	</File>
+	<File name="src\Fero2dRenderer.cxx" open="1" top="0" tabpos="32">
+		<Cursor position="377" topLine="5" />
+	</File>
+	<File name="src\Frames2d.cxx" open="1" top="0" tabpos="40">
+		<Cursor position="390" topLine="0" />
+	</File>
+	<File name="src\Graphics.cxx" open="1" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\HashTable.cc" open="1" top="0" tabpos="4">
+		<Cursor position="101" topLine="0" />
+	</File>
+	<File name="src\Image.cxx" open="1" top="0" tabpos="38">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\Main.cxx" open="1" top="0" tabpos="36">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\MsgCarrier.cxx" open="1" top="0" tabpos="37">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\Pong.cxx" open="1" top="1" tabpos="15">
+		<Cursor position="2253" topLine="58" />
+	</File>
+	<File name="src\Renderer.cxx" open="1" top="0" tabpos="1">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="src\Sprite.cxx" open="1" top="0" tabpos="35">
+		<Cursor position="2" topLine="0" />
+	</File>
+	<File name="src\SpriteManager.cxx" open="1" top="0" tabpos="19">
+		<Cursor position="233" topLine="3" />
+	</File>
+	<File name="src\Sprites.cxx" open="1" top="0" tabpos="24">
+		<Cursor position="2" topLine="0" />
+	</File>
+	<File name="src\TileManager.cxx" open="1" top="0" tabpos="39">
+		<Cursor position="213" topLine="18" />
+	</File>
+</CodeBlocks_layout_file>

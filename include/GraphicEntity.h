@@ -1,0 +1,3 @@
+class GraphicEntity : public Entity
+{
+};

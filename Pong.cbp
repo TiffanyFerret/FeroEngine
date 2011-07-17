@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Pong" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Pong" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="mingw32" />
+					<Add library="SDLmain" />
+					<Add library="SDL" />
+					<Add library="SDL_image" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Pong" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include\Ball.h" />
+		<Unit filename="include\CollisionDetector.h" />
+		<Unit filename="include\DataCenter.h" />
+		<Unit filename="include\Entity.h" />
+		<Unit filename="include\EntityManager.h" />
+		<Unit filename="include\EventSDL.h" />
+		<Unit filename="include\Fero2dRenderer.h" />
+		<Unit filename="include\Frames2d.h" />
+		<Unit filename="include\GraphicEntity.h" />
+		<Unit filename="include\GraphicEntityManager.h" />
+		<Unit filename="include\Graphics.h" />
+		<Unit filename="include\HashTable.h" />
+		<Unit filename="include\Image.h" />
+		<Unit filename="include\ImageSDL.h" />
+		<Unit filename="include\InputManager.h" />
+		<Unit filename="include\Inputs.h" />
+		<Unit filename="include\Module.h" />
+		<Unit filename="include\MsgCarrier.h" />
+		<Unit filename="include\Paddle.h" />
+		<Unit filename="include\Pong.h" />
+		<Unit filename="include\Program.h" />
+		<Unit filename="include\RandomNumber.h" />
+		<Unit filename="include\Rect.h" />
+		<Unit filename="include\Renderer.h" />
+		<Unit filename="include\Sprite.h" />
+		<Unit filename="include\SpriteManager.h" />
+		<Unit filename="include\TileManager.h" />
+		<Unit filename="src\Ball.cxx" />
+		<Unit filename="src\CollisionDectector.cxx" />
+		<Unit filename="src\DataCenter.cc" />
+		<Unit filename="src\Entity.cxx" />
+		<Unit filename="src\EntityManager.cxx" />
+		<Unit filename="src\EventSDL.cxx" />
+		<Unit filename="src\Fero2dRenderer.cxx" />
+		<Unit filename="src\Frames2d.cxx" />
+		<Unit filename="src\Graphics.cxx" />
+		<Unit filename="src\HashTable.cc" />
+		<Unit filename="src\Image.cxx" />
+		<Unit filename="src\ImageSDL.cxx" />
+		<Unit filename="src\InputManager.cxx" />
+		<Unit filename="src\Inputs.cxx" />
+		<Unit filename="src\Main.cxx" />
+		<Unit filename="src\MsgCarrier.cxx" />
+		<Unit filename="src\Paddle.cxx" />
+		<Unit filename="src\Pong.cxx" />
+		<Unit filename="src\Program.cxx" />
+		<Unit filename="src\RandomNumber.cxx" />
+		<Unit filename="src\Rect.cxx" />
+		<Unit filename="src\Renderer.cxx" />
+		<Unit filename="src\Sprite.cxx" />
+		<Unit filename="src\SpriteManager.cxx" />
+		<Unit filename="src\Sprites.cxx" />
+		<Unit filename="src\TileManager.cxx" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
